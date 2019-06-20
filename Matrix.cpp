@@ -2,7 +2,7 @@
 #include <stdexcept>
 #include <cstdio>
 #include <cmath>
-#include "Matrix.h"
+#include "Matrix.hpp"
 using namespace std;
 
 const double EPS = 0.000001;
